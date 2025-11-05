@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josué Escobedo</h1>
-<h3 align="center">Sr. Application Support Engineer | SRE | Professor | MTech Student</h3>
+<h3 align="center">Founder & CEO – G2 Tech Labs | Sr Application Support Engineer | Automation & Cloud | SRE | University Professor | MTech Student</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🧑‍🏫 University professor teaching **Programming, Security, and Data Structures**
 - 🧠 Currently exploring **AI-assisted documentation** and **DevOps automations**
 - 📚 Pursuing **MTech in Software Engineering**
-- 🧾 All my academic & tech projects: [[Portfolio (coming soon)](https://github.com/Goweolma)](https://goweolma.github.io/PortafolioV2/)
+- 🧾 All my academic & tech projects: (https://goweolma.github.io/PortafolioV2/)
 - 📫 Reach me at: **jescobedo.avelar@gmail.com**
 
 ---
@@ -49,7 +49,15 @@
 ---
 
 ### 🧰 Featured Projects
+#### 🌀 [spinning-page (Public)](https://github.com/Goweolma/spinning-page)
+Landing page for a professional spinning studio — built with HTML, CSS, and JS.  
+Includes dynamic banners, color branding, and interactive map integration.
 
+#### 🚴 [spinning (Public)](https://github.com/Goweolma/spinning)
+Full concept project for a local spinning gym — featuring branding, LED lighting theme, and promotional assets.
+
+#### 💼 [GG_tech_Solutions (Public)](https://github.com/Goweolma/GG_tech_Solutions)
+Smart solutions hub by **G2 Tech Labs** — business landing page, branding system, and digital portfolio showcase.
 
 ---
 
