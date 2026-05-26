@@ -104,6 +104,8 @@ Founder & CEO – G2 Tech Labs | Sr Application Support Engineer | Automation & 
 
 ### 🕹️ Bomberman Contribution Graph
 
+### 🕹️ Bomberman Contribution Graph
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
